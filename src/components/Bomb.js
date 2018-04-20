@@ -13,6 +13,8 @@ class Bomb extends React.Component {
         <div>
           <p>{this.state.secondsLeft} seconds left before I go boom! </p>
         </div>
+      } else {
+        
       }
 
     )
