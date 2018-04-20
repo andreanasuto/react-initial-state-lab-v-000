@@ -1,8 +1,8 @@
 // Bomb Component Code Goes Here
-class Bomb {
+class Bomb extends React.Component {
   render() {
     return (
-      
+
     )
   }
 }
