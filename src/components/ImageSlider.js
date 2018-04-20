@@ -1,8 +1,10 @@
 // Bomb Component Code Goes Here
 class ImageSlider extends React.Component {
-  constructor() {
-
+  render() {
+    return (
+      
+    )
   }
 }
 
-export default ImageSlider
+export default ImageSlider;
