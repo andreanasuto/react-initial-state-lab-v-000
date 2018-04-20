@@ -1,8 +1,10 @@
 // Bomb Component Code Goes Here
 class Bomb {
-  constructor() {
-
+  render() {
+    return (
+      
+    )
   }
 }
 
-export default Bomb
+export default Bomb;
