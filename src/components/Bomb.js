@@ -10,11 +10,11 @@ class Bomb extends React.Component {
   render() {
     return (
       if (this.state.secondsLeft != 0) {
-        
+        <div>
+          <p>{this.state.secondsLeft} seconds left before I go boom! </p>
+        </div>
       }
-      <div>
-        <p>{this.state.secondsLeft} seconds left before I go boom! </p>
-      </div>
+
     )
   }
 }
